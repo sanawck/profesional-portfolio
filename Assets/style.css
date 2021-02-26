@@ -172,10 +172,12 @@
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    justify-content: space-between;
   }
   
   .footer h2 {
     font-size: 20px;
+    justify-content: space-between;
   }
   
   
@@ -190,6 +192,7 @@
     /* make content full width */
     h1 {
       font-size: 2rem;
+      width: 100%;
     }
   
     section header {
