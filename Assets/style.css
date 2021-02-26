@@ -14,7 +14,11 @@
     padding: 2rem;
   }
   
-  h1, h2, h3, h4, h5, h6 {
+  h1 {
+    font-size: xx-large;
+    text-align: center;
+  }
+  h2, h3, h4, h5, h6 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
@@ -32,16 +36,23 @@
   
   header {
     padding-top: 1em;
-    padding-bottom: 2em;
+    padding-bottom: 0.3em;
     display: flex;  
     align-content: space-between;
-    /* place-content:inherit;
-    justify-content: right; */
     color: whitesmoke;
     font-weight: bold;
-    font-size: xx-large;
+    font-size: x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
+
+  .second-header {
+   background-image:url(./header.jpg);
+   margin-left: 18em;
+   height: 200px;
+   justify-content: right;
+   display: flex;
+  }
+
 
   section {
     padding: 5rem 5em;
@@ -81,6 +92,7 @@
   .headernav a {
     color: rgb(146, 146, 125);
     text-decoration: none;
+    justify-content: space-between;
   }
   
   .headernav a:hover { 
@@ -88,11 +100,9 @@
     font-stretch: normal;
     color:wheat;
   }
+
   /*Self image Header */
-  .selfimage {
-      background-color: black;
-    
-  }
+ 
   .selfimage img {
     display: flex;
     width: 7em;
