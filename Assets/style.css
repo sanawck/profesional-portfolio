@@ -32,9 +32,11 @@
   
   header {
     padding-top: 1em;
-    padding-bottom: 4em;
+    padding-bottom: 2em;
     display: flex;  
-    justify-content: right;
+    align-content: space-between;
+    /* place-content:inherit;
+    justify-content: right; */
     color: whitesmoke;
     font-weight: bold;
     font-size: xx-large;
@@ -42,7 +44,7 @@
   }
 
   section {
-    padding: 5rem 0;
+    padding: 5rem 5em;
     display: flex;
   }
   
@@ -132,7 +134,7 @@
     background-image: url(./codeblack.jpg);
   }
   .image-2 {
-      background-image: url(./1DF61247-2A5C-491A-8838-FC1CACC16C9D.jpeg);
+      background-image: url(./react.png);
   }
   .image-3 {
       background-image: url(./html5.png);
