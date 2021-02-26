@@ -129,19 +129,19 @@
   
   .image-1 {
     grid-column: 1/3;
-    background-image: url(../profesional-portfolio/Assets/codeblack.jpg);
+    background-image: url(./codeblack.jpg);
   }
   .image-2 {
-      background-image: url(../profesional-portfolio/Assets/jslog.jpg);
+      background-image: url(./1DF61247-2A5C-491A-8838-FC1CACC16C9D.jpeg);
   }
   .image-3 {
-      background-image: url(../profesional-portfolio/Assets/react.png);
+      background-image: url(./html5.png);
   }
   .image-4 {
-      background-image: url(../profesional-portfolio/Assets/html5.png);
+      background-image: url(./jslog.jpg);
   }
   .image-5 {
-    background-image: url(../profesional-portfolio/Assets/jqueryblack.png.crdownload);
+    background-image: url(./react.png);
      
   }
   .content {
