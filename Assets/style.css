@@ -109,7 +109,7 @@
   }
   .code-card :hover, .card-header {
    box-shadow: inset 0px 0px 8px;
-   color:brown;
+   color:cadetblue;
       
   }
   .card-header {
@@ -212,7 +212,8 @@
   
   .footer {
     padding: 30px;
-    clear: both;
+    justify:flex;
+    /* clear: both; */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     justify-content: space-between;
