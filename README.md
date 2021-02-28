@@ -21,6 +21,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 <img width="1429" alt="Screen Shot 2021-02-27 at 10 03 56 PM" src="https://user-images.githubusercontent.com/77689307/109406533-dfd74c80-7947-11eb-9c7f-5689dcb952d2.png">
-<img width="1429" alt="Screen Shot 2021-02-27 at 10 04 35 PM" src="https://user-images.githubusercontent.com/77689307/109406535-e5cd2d80-7947-11eb-9cc4-e58ba43a5aaf.png">
+<img width="1440" alt="Screen Shot 2021-02-27 at 10 26 27 PM" src="https://user-images.githubusercontent.com/77689307/109406932-ec10d900-794a-11eb-907e-721447e7e061.png">
+
 
     
